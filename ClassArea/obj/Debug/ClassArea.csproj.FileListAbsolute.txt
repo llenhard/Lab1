@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Debug\ClassArea.exe.config
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Debug\ClassArea.exe
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Debug\ClassArea.pdb
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Debug\ClassArea.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Debug\ClassArea.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Debug\ClassArea.exe
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Debug\ClassArea.pdb

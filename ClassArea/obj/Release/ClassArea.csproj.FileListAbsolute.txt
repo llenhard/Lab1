@@ -1,0 +1,6 @@
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Release\ClassArea.exe.config
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Release\ClassArea.exe
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\bin\Release\ClassArea.pdb
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Release\ClassArea.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Release\ClassArea.exe
+C:\Users\Luke\Desktop\gc\Labs\ClassArea\ClassArea\obj\Release\ClassArea.pdb
